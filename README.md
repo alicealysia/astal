@@ -1,3 +1,3 @@
-# Astal
+current version of astal with sameoldlab's niri implementation.
 
-To get started read the [wiki](https://aylur.github.io/astal/)
+Will sync as I need it.
